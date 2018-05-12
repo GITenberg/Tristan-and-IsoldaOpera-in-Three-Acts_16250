@@ -1,0 +1,39 @@
+_repo: Tristan-and-IsoldaOpera-in-Three-Acts_16250
+_version: 0.1.0
+alternative_title: Tristan und Isolde
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Wagner, Richard
+    aliases:
+    - Drach, Wilhelm
+    - Wagner, R. (Richard)
+    - Wagner, Wilhelm Richard
+    birthdate: 1813
+    deathdate: 1883
+    gutenberg_agent_id: '1325'
+    url: http://www.gutenberg.org/2009/agents/1325
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Richard_Wagner
+    - http://fr.wikipedia.org/wiki/Richard_Wagner
+description: The German text is not included in this eBook.
+gutenberg_bookshelf: Opera
+gutenberg_issued: '2005-07-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16250'
+language: en
+production_note: EBook produced by Juliet Sutherland, Michel Boto and the Online Distributed
+  Proofreading Team at http://www.pgdp.net
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Iseult (Legendary character) -- Drama'
+- !lcc 'ML'
+- !lcsh 'Operas -- Librettos'
+- !lcsh 'Tristan (Legendary character) -- Drama'
+title: 'Tristan and Isolda: Opera in Three Acts'
+url: http://www.gutenberg.org/ebooks/16250
